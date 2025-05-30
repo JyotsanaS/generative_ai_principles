@@ -4,8 +4,8 @@ This directory contains examples demonstrating various principles and best pract
 
 ## Files and Their Objectives
 
-### Principle Demonstrated: Structured Output Parsing
-#### price_finder.py
+### Principle Demonstrated: Structured Output Parsing Using Pydantic
+#### pydantic/price_finder.py
 
 This example shows how to enforce structure and reliability in LLM outputs by:
 
